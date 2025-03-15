@@ -76,9 +76,6 @@ The **Sustainable Shopping Assistant** is a web application and browser extensio
 ## 🤝 Contributing
 We welcome contributions! Feel free to **fork this repo**, create a **feature branch**, and submit a **pull request**. 🛠️✨
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 
 🌱 *Together, let's make shopping more sustainable!*
